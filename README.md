@@ -5,10 +5,10 @@ This is the project to discover how to use machine learning methods or neural ne
 
 ## Features
 
-- finial_assignment_ver4.ipynb
-A juypter notebook consists all of the coding related to this project.
-- hparams_table.csv
-The table includes all of data about optimisation of hyper-pararmenters.
+finial_assignment_ver4.ipynb
+- A juypter notebook consists all of the coding related to this project.
+hparams_table.csv
+- The table includes all of data about optimisation of hyper-pararmenters.
 
 
 
