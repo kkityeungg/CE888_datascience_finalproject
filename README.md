@@ -4,6 +4,8 @@ This is the project to discover how to use machine learning methods or neural ne
 
 
 ## Features
+final_model.py
+- This is py.file showing the final model of this proect that contians data pre-processing, training and prediction processes.
 
 finial_assignment_ver4.ipynb
 - A juypter notebook consists all of the coding related to this project.
